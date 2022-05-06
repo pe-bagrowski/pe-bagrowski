@@ -9,8 +9,8 @@ Current project:
 - JARVIS - voice assistance || university collabo
 <br>
 
-
-In progress:
+<br>
+In progress:<br>
 - uploding old script for sockets and some basic console scripts
 
 <!---
