@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pe-bagrowski
+- 👋 Hi, I’m @pe-bagrowski, you can reach me by Linkedin: https://www.linkedin.com/in/pawe%C5%82-bagrowski-354367a6/
 - 👀 I’m interested in backend technologies!
 - 🌱 I’m currently learning PHP/JS
 
