@@ -2,7 +2,8 @@
 - 👀 I’m interested in backend technologies!
 - 🌱 I’m currently learning PHP/JS
 
-- Current project:
+<br>
+Current project:
 - ECP - diploma .NET project with Arduino
 - JARVIS - voice assistance || university collabo
 
