@@ -4,9 +4,10 @@
 
 <br>
 Current project:
-- ECP - diploma .NET project with Arduino
+<br>
+- ECP - diploma .NET project with Arduino<br>
 - JARVIS - voice assistance || university collabo
-
+<br>
 
 
 In progress:
