@@ -6,7 +6,9 @@
 Current project:
 <br>
 - ECP - diploma .NET project with Arduino<br>
-- JARVIS - voice assistance || university collabo
+- JARVIS - voice assistance || university collabo<br>
+- Face recognition with some AI - python || university collabo<br>
+- IOT house heating system<br>
 <br>
 
 <br>
